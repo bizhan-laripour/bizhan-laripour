@@ -2,7 +2,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=bizhan-laripour)](https://github.com/anuraghazra/github-readme-stats)
 
 [//]: # ([![My GitHub Stats]&#40;https://github-readme-stats.vercel.app/api/?username=bizhan-laripour&count_private=true&theme=tokyonight&showicons=true&#41;]&#40;&#41;)
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bizhan-laripour&langs_count=5&theme=tokyonight)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=bizhan-laripour&langs_count=5)]()
 <!--
 **bizhan-laripour/bizhan-laripour** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
